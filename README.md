@@ -19,14 +19,15 @@ Click "View Mastery Roadmap" on any phase to see:
 
 ### 📚 What Each Roadmap Contains
 
-**Phase 0 - Core Foundation**: 3-week deep dive into Django ORM, DRF, JWT, Celery, and Docker
-**Phase 1 - Stripe Payments**: 2-week intensive on subscription billing (the #1 client demand)
-**Phase 2 - Testing Mastery**: 1-2 weeks to achieve 90% coverage and professional quality
-**Phase 3 - WebSockets**: 1 week to master real-time features that command premium prices
-**Phase 4 - DB Optimization**: 1 week to 10x your app performance
-**Phase 5 - Redis Advanced**: 3-day sprint on caching and speed optimization
-**Phase 6 - Sentry Monitoring**: 2 days to production-ready error tracking
+**Phase 0 - Core Foundation**: 3-week deep dive into Django ORM, DRF, JWT, Celery, and Docker  
+**Phase 1 - Stripe Payments**: 2-week intensive on subscription billing (the #1 client demand)  
+**Phase 2 - Testing Mastery**: 1-2 weeks to achieve 90% coverage and professional quality  
+**Phase 3 - WebSockets**: 1 week to master real-time features that command premium prices  
+**Phase 4 - DB Optimization**: 1 week to 10x your app performance  
+**Phase 5 - Redis Advanced**: 3-day sprint on caching and speed optimization  
+**Phase 6 - Sentry Monitoring**: 2 days to production-ready error tracking  
 **Phase 7 - GraphQL**: 1 week on modern APIs for international clients
+
 
 ## 🎯 How to Use This Enhanced Dashboard
 
